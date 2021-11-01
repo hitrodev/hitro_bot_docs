@@ -1,4 +1,4 @@
-[`English`](/en/about.md) | **`Русский`**
+[`English`](/en.md) | **`Русский`**
 
 # Документация по HitroBot
 
