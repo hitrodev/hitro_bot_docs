@@ -2,7 +2,7 @@
 
 # Документация по HitroBot
 
-*Следи за обновлениями через [HitroNews](https://t.me/joinchat/ewWa26Z0UINlMzli) Телеграм-канал*
+*Следи за обновлениями через [HitroNews](https://t.me/hitro_news) Телеграм-канал*
 
 ---
 
