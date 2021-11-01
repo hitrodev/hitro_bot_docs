@@ -2,7 +2,7 @@
 
 # HitroBot documentation
 
-*Follow [HitroNews](https://t.me/joinchat/ewWa26Z0UINlMzli) Telegram-channel to stay tunned*
+*Follow [HitroNews](https://t.me/hitro_news) Telegram-channel to stay tunned*
 
 ---
 
