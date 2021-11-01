@@ -40,7 +40,7 @@ Is it worth using HitroBot?
 **The robot has positive profitability, it is public and available on the [Binance Leaderboard](https://www.binance.com/en/futures-activity/leaderboard?type=myProfile&encryptedUid=CEFC421368F9D59B8499CE65813D7FCA).**
 
 Average profitability is above **+30-50%**. Testing of the algorithm on historical data (backtesting) shows positive results at the end of each month.
-Backtesting results are available here: TODO.
+Backtesting results are available [here](/backtesting/report.md).
 
 It is worth noting that the robot can sometimes close trades at a loss, therefore, on the PNL (Profit and Loss) chart, you can sometimes see short-term drawdowns, for example: October 6 -5.5%, October 17 -15%.
 This is fine, as the overall portfolio size is going up!
