@@ -142,6 +142,7 @@ The commission is charged according to the schedule starting since enabling the 
 - every **3 days** first three times
 - every **week** next two times
 - every **2 weeks** from now on
+
 For instance, a user connected to HitroBot on 1st of October 2021, then the commission will be charged on October 4, 7, 10; then October 18, 25; then November 8 and 22, December 6 and 20, and so on.
 
 The commission is charged only on the profit since the moment of either topping up the account or the last commission was charged.
