@@ -54,7 +54,7 @@ More information about the robot can be found in the [FAQ](#frequently-asked-que
 In order for HitroBot to start trading for you, you will need:
 - an account in the [Telegram messenger](https://telegram.org)
 - an account on the [Binance exchange](https://accounts.binance.com/en/register?ref=N587Q7WB) (registration instructions are [below](#binance-registration-and-account-setup-1))
-- $1,000.00 in your account
+- at least $1,000.00 in your account
 
 So, the instructions for connecting to HitroBot:
 1. Go to [@hitro_crypto_bot](https://t.me/hitro_crypto_bot) Telegram-bot and press `Start`. You will control the robot through it.
@@ -116,7 +116,7 @@ You can easily transfer funds between these accounts. HitroBot uses only *Future
 
 There are millions of ways to top up the main account. But each of them is charged a fee.
 
-For me I chose [card depositing with Euro](https://www.binance.com/en/support/faq/a6f4eb39c27347109b5091dfee3ec96a) as the simplest, fastest and cheapest method.
+Probably, [card depositing with Euro](https://www.binance.com/en/support/faq/a6f4eb39c27347109b5091dfee3ec96a) is the simplest, fastest and cheapest method.
 
 1. So, fund your account using one of the available methods, for example:
    - [card deposit](https://www.binance.com/en/support/faq/a6f4eb39c27347109b5091dfee3ec96a)
@@ -136,31 +136,32 @@ For withdrawal you need to perform basically the same order of actions as with d
 ## HitroBot commission
 
 Users of HitroBot pay a commission of **30% of the profit**.
+The robot will calculate the commission size for you, then the Telegram-bot will send all the information including wallet adresses for transfer.
 
-For example, the robot gained from $1000 to $1100. The profit would be `$1100 - $1000 = $100`.  
-Then the commission would be `$100 * 30% / 100 = $30`.
+The commission is charged according to the schedule starting since enabling the robot:
+- every **3 days** first three times
+- every **week** next two times
+- every **2 weeks** from now on
+For instance, a user connected to HitroBot on 1st of October 2021, then the commission will be charged on October 4, 7, 10; then October 18, 25; then November 8 and 22, December 6 and 20, and so on.
 
-The commission is taken only from the profit since the moment of either topping up the account or the last commission.
+The commission is charged only on the profit since the moment of either topping up the account or the last commission was charged.
 That means if the robot closes a period of time at a loss, it continues to trade without fees until the size of the portfolio reaches the last maximum.
 
-An example: since the last commission the account balance is $1100. The robot lost $50 in a week. No commission is charged, the robot continues to trade.  
-Next week the robot gains $100. The account has `$1100 - $50 + $100 = $1150`.  
-The profit is `$1150 - $1100 = $50`, and the commission is `$50 * 30% / 100 = $15`.
+For example, the robot gained from $1000 to $1200 in two weeks. The profit is `$1200 - $1000 = $200`.  
+Then the commission would be `$200 * 30% / 100 = $60`, the account is left with `$1140`.  
+Over the next two weeks the robot loses $40.
+Since the profit is negative, the commission is not charged, the robot continues to trade.  
+Over the next two weeks the robot earns `$200`. Taking into account the losses of the previous two weeks, the total profit is `$200 - $40 = $160`.  
+The commission would be `$160 * 30% / 100 = $48`, and the account is left with `$1212`.
 
-The commission schedule is as follows:
-- **first 3 charges** are every **3 days** since the moment the robot was started
-- **next 2 charges** are every **week**
-- next charges are **2 weeks**
+The transaction should be made from your Binance account which is connected to HitroBot.
+In this case it will understand that this account is yours.
+When the robot receives money the Telegram-bot will notify you about that.
 
-The Telegram-bot will send you the information about commission size and the wallets where to send USDT.
-The transaction should be made from your Binance account that is connected to HitroBot. In this case it will understand that this account is yours.
+> Advice: When sending funds for the first time, it is possible to send a few dollars first, wait for confirmation from the bot for a few minutes and then send the rest.  
+> This way, in case of an error in the wallet address or other parameters only a small fraction of the funds will be lost.
 
-When the robot receives the money the Telegram-bot will notify you about that.
-
-> Advice: When sending funds for the first time, send a few dollars first, wait for confirmation from the bot, which is usually sent in a few minutes.
-> Then you can send the rest.  
-> Thus, in case of an error in the wallet address or other parameters only a small fraction of the funds will be lost.
-
+You have one to three days to pay the commission after the charge.
 If the commission is not paid, the robot will be suspended.
 
 
