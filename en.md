@@ -75,7 +75,7 @@ So, the instructions for connecting to HitroBot:
 
 To register with Binance:
 1. Go through the [referral link](https://accounts.binance.com/en/register?ref=N587Q7WB) that gives a *-10%* commission discount.
-2. Then the usual: register with your email, phone number, password.
+2. Then the usual: register with your [email](https://www.binance.com/en/support/faq/115003764911) or a [phone number](https://www.binance.com/en/support/faq/718f25947c2c4cf2ab0b28ca411e682a).
 3. To remove the account limits, as well as to be able to create API keys that the robot will need, [complete the Identity Verification](https://www.binance.com/en/support/faq/360027287111). You will need to send a scan of your ID document.
 4. Then [open the Futures USDⓈ-M account](https://www.binance.com/en/support/faq/360033772992), which the bot will use to trade.
 
