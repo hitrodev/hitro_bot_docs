@@ -139,11 +139,11 @@ Users of HitroBot pay a commission of **30% of the profit**.
 The robot will calculate the commission size for you, then the Telegram-bot will send all the information including wallet adresses for transfer.
 
 The commission is charged according to the schedule starting since enabling the robot:
-- every **3 days** first three times
-- every **week** next two times
+- after next **3 days**
+- after next **week**
 - every **2 weeks** from now on
 
-For instance, a user connected to HitroBot on 1st of October 2021, then the commission will be charged on October 4, 7, 10; then October 18, 25; then November 8 and 22, December 6 and 20, and so on.
+For instance, a user connected to HitroBot on 1st of October 2021, then the commission will be charged on October 4, then October 11, then October 25, November 8 and so on.
 
 The commission is charged only on the profit since the moment of either topping up the account or the last commission was charged.
 That means if the robot closes a period of time at a loss, it continues to trade without fees until the size of the portfolio reaches the last maximum.
