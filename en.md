@@ -62,7 +62,7 @@ So, the instructions for connecting to HitroBot:
 3. Log in or register with Binance ([instructions](#binance-registration-and-account-setup-1)).
 4. The bot will ask you to send API Keys for trading for your Binance account. Set up the API Keys ([instructions](#api-keys-setup)) and send API Key first, then API Secret to the bot.
 5. Fund your Futures account on Binance ([instructions](#how-to-deposit-and-withdraw-funds-1)).
-6. In the bot menu press `Activate the robot`. It will validate given API keys. If the bot returned an error, check if the keys were set up correctly.
+6. In the bot menu press `Activate the robot`. It will validate given API keys. If the bot returned an error, check if the keys were set up correctly. You can also try creating the API keys again and update them with `Update API keys` button in the bot menu.
 7. **Done! Now the robot trades and earns money for you!**
 8. You can control the robot and view statistics through the Telegram-bot menu ([more details](#using-telegram-bot-1)).
 
