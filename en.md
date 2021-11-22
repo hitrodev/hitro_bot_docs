@@ -137,6 +137,8 @@ For withdrawal you need to perform basically the same order of actions as with d
 
 Users of HitroBot pay a commission of **30% of the profit**.
 The robot will calculate the commission size for you, then the Telegram-bot will send all the information including wallet adresses for transfer.
+There is a Binance [instruction on how to withdraw funds to another wallet](https://www.binance.com/en/support/faq/115003670492).
+It is more profitable to use the BEP20 and BEP2 networks for transfers, since they are commission-free.
 
 The commission is charged according to the schedule starting since enabling the robot:
 - after next **3 days**
