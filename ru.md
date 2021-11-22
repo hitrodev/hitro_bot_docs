@@ -2,7 +2,8 @@
 
 # Документация по HitroBot
 
-*Следи за обновлениями через [HitroNews](https://t.me/hitro_news) Телеграм-канал*
+*Следи за обновлениями через [HitroNews](https://t.me/hitro_news) Телеграм-канал*  
+*Связь с разработчиками: [@hitro_dev](https://t.me/hitro_dev)*
 
 ---
 
