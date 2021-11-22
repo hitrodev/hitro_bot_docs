@@ -2,7 +2,8 @@
 
 # HitroBot documentation
 
-*Follow [HitroNews](https://t.me/hitro_news) Telegram-channel to stay tunned*
+*Follow [HitroNews](https://t.me/hitro_news) Telegram-channel to stay tunned*  
+*Contact the developers: [@hitro_dev](https://t.me/hitro_dev)*
 
 ---
 
