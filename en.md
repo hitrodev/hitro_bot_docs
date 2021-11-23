@@ -21,7 +21,7 @@
 
 ### [HitroBot commission](#hitrobot-commission-1)
 
-### [Invite friends — earn bonuses]()
+### [Invite friends — earn bonuses](#invite-friends--earn-bonuses-1)
 
 ### [Binance restrictions](#binance-restrictions-1)
 
