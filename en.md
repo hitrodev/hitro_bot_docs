@@ -21,6 +21,8 @@
 
 ### [HitroBot commission](#hitrobot-commission-1)
 
+### [Invite friends — earn bonuses]()
+
 ### [Binance restrictions](#binance-restrictions-1)
 
 ### [Frequently asked questions](#frequently-asked-questions-1)
@@ -167,6 +169,10 @@ When the robot receives money the Telegram-bot will notify you about that.
 
 You have one to three days to pay the commission after the charge.
 If the commission is not paid, the robot will be suspended.
+
+## Invite friends — earn bonuses
+
+*Coming in December 2021. You'll be able to invite friends and earn bonuses. Follow [HitroNews](https://t.me/hitro_news) Telegram-channel to stay tunned.*
 
 
 ## Binance restrictions
