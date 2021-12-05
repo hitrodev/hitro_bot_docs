@@ -36,6 +36,7 @@
 ## What is HitroBot
 
 HitroBot — fully automated algorithmic robot that trades cryptocurrency futures.
+"Hitro" means smart, canny bot.
 
 It is integrated with the Binance exchange as a trading platform. Binance users can connect to the robot.
 
