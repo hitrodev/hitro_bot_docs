@@ -138,8 +138,10 @@ For withdrawal you need to perform basically the same order of actions as with d
 
 ## HitroBot commission
 
-Users of HitroBot pay a commission of **30% of the profit**.
-The robot will calculate the commission size for you, then the Telegram-bot will send all the information including wallet adresses for transfer.
+Users of HitroBot pay a commission — a fixed percentage **of the profits**.
+The percentage is tied to the specific invitation that you joined HitroBot with.
+The robot will calculate the commission size for you and send via Telegram all the information including wallet adresses for transfer.
+
 There is a Binance [example on how to withdraw funds to another wallet](https://www.binance.com/en/support/faq/115003670492).
 It is more profitable to use the BEP20 and BEP2 networks for transfers, since they are commission-free.
 
@@ -153,7 +155,7 @@ For instance, a user connected to HitroBot on 1st of October 2021, then the comm
 The commission is charged only on the profit since the moment of either topping up the account or the last commission was charged.
 That means if the robot closes a period of time at a loss, it continues to trade without fees until the size of the portfolio reaches the last maximum.
 
-For example, the robot gained from $1000 to $1200 in two weeks. The profit is `$1200 - $1000 = $200`.  
+For example, the commission percentage is 30%, and the robot gained from $1000 to $1200 in two weeks. The profit is `$1200 - $1000 = $200`.  
 Then the commission would be `$200 * 30% / 100 = $60`, the account is left with $1140.  
 Over the next two weeks the robot loses $40.
 Since the profit is negative, the commission is not charged, the robot continues to trade.  
