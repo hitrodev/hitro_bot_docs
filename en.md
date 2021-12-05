@@ -1,6 +1,6 @@
 `English` | **[`Русский`](/ru.md)**
 
-# HitroBot documentation
+# HitroBot documentation + instructions
 
 *Follow [HitroNews](https://t.me/hitro_news) Telegram-channel to stay tunned*  
 *Contact the developers: [@hitro_dev](https://t.me/hitro_dev)*
