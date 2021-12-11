@@ -156,12 +156,13 @@ For instance, a user connected to HitroBot on 1st of October 2021, then the comm
 The commission is charged only on the profit since the moment of either topping up the account or the last commission was charged.
 That means if the robot closes a period of time at a loss, it continues to trade without fees until the size of the portfolio reaches the last maximum.
 
-For example, the commission percentage is 30%, and the robot gained from $1000 to $1200 in two weeks. The profit is `$1200 - $1000 = $200`.  
-Then the commission would be `$200 * 30% / 100 = $60`, the account is left with $1140.  
-Over the next two weeks the robot loses $40.
-Since the profit is negative, the commission is not charged, the robot continues to trade.  
-Over the next two weeks the robot earns $200. Taking into account the losses of the previous two weeks, the total profit is `$200 - $40 = $160`.  
-The commission would be `$160 * 30% / 100 = $48`, and the account is left with $1212.
+> Example: For ease of calculation let's take the commission percentage 50%.  
+> The robot gained from $10,000 to $12,000 in two weeks. The profit is `$12,000 - $10,000 = $2,000`.  
+> Then the commission would be `$2,000 * 50% / 100 = $1,000`, the account is left with $11,000.  
+> Over the next two weeks the robot loses $500.
+> Since the profit is negative, the commission is not charged, the robot continues to trade.  
+> Over the next two weeks the robot earns $1,500. Taking into account the losses of the previous two weeks, the total profit is `$1,500 - $500 = $1,000`.  
+> The commission would be `$1,000 * 50% / 100 = $500`, and the account is left with $11,500.
 
 The transaction should be made from your Binance account which is connected to HitroBot.
 In this case it will understand that this account is yours.
