@@ -13,7 +13,7 @@
 ### [How to start using HitroBot](#how-to-start-using-hitrobot-1)
 
 ### [Binance registration and account setup](#binance-registration-and-account-setup-1)
-- #### [Refferal link with *-10%* commission discount](https://accounts.binance.com/en/register?ref=N587Q7WB)
+- #### [Promo code with *-10%* Binance commission discount](https://accounts.binance.com/en/register?ref=N587Q7WB)
 
 ### [Using Telegram-bot](#using-telegram-bot-1)
 
@@ -21,7 +21,7 @@
 
 ### [HitroBot commission](#hitrobot-commission-1)
 
-### [Invite friends — earn bonuses](#invite-friends--earn-bonuses-1)
+### [How to invite friends](#how-to-invite-friends-1)
 
 ### [Binance restrictions](#binance-restrictions-1)
 
@@ -62,7 +62,7 @@ In order for HitroBot to start trading for you, you will need:
 
 So, the instructions for connecting to HitroBot:
 1. Go to [@hitro_crypto_bot](https://t.me/hitro_crypto_bot) Telegram-bot and press `Start`. You will control the robot through it.
-2. The bot will ask you to send an invitation code, send your invite that you received from a referrer.
+2. The bot will ask you to send an invitation code, send your invite that you received from a friend.
 3. Log in or register with Binance ([instructions](#binance-registration-and-account-setup-1)).
 4. The bot will ask you to send API Keys for trading for your Binance account. Set up the API Keys ([instructions](#api-keys-setup)) and send API Key first, then API Secret to the bot.
 5. Fund your Futures account on Binance ([instructions](#how-to-deposit-and-withdraw-funds-1)).
@@ -78,7 +78,7 @@ So, the instructions for connecting to HitroBot:
 ## Binance registration and account setup
 
 To register with Binance:
-1. Go through the [referral link](https://accounts.binance.com/en/register?ref=N587Q7WB) that gives a *-10%* commission discount.
+1. Go through the [promo code link](https://accounts.binance.com/en/register?ref=N587Q7WB) that gives *-10%* commission discount.
 2. Then the usual: register with your [email](https://www.binance.com/en/support/faq/115003764911) or a [phone number](https://www.binance.com/en/support/faq/718f25947c2c4cf2ab0b28ca411e682a).
 3. To remove the account limits, as well as to be able to create API keys that the robot will need, [complete the Identity Verification](https://www.binance.com/en/support/faq/360027287111). You will need to send a scan of your ID document.
 4. Then [open the Futures USDⓈ-M account](https://www.binance.com/en/support/faq/360033772992), which the bot will use to trade.
@@ -174,9 +174,19 @@ When the robot receives money the Telegram-bot will notify you about that.
 You have one to three days to pay the commission after the charge.
 If the commission is not paid, the robot will be suspended.
 
-## Invite friends — earn bonuses
 
-*Coming in December 2021. You'll be able to invite friends and earn bonuses. Follow [HitroNews](https://t.me/hitro_news) Telegram-channel to stay tunned.*
+## How to invite friends
+
+All HitroBot users are able to share this opportunity to earn crypto with friends.
+
+To do it press the `Invite friends` button in the Telegram-bot menu (if there is no such button, send any message to the bot, it will update the menu).
+The bot will reply with your individual invitation code which can be used by your friends to join HitroBot.
+Send your friend the invite and a [link](https://bit.ly/hitro-bot-docs) with instructions on how to join.
+
+As a bonus **10%** of your friends' commission will be rebated to you.  
+The bot will calculate the rebate amount and:
+- notify you about it in a message
+- deduct it from the next commission
 
 
 ## Binance restrictions
