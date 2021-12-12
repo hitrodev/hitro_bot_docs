@@ -50,7 +50,7 @@ Backtesting results are available [here](/backtesting/report.md).
 It is worth noting that the robot can sometimes close trades at a loss, therefore, on the PNL (Profit and Loss) chart, you can sometimes see short-term drawdowns, for example: October 6 -5.5%, October 17 -15%.
 This is fine, as the overall portfolio size is going up!
 
-<img src="/images/pnl-october.png" alt="October PNL" height="388"/>
+<img src="/images/pnl-october.png" alt="October PNL" style="object-fit: cover; max-width:100%; height:388px;"/>
 
 More information about the robot can be found in the [FAQ](#frequently-asked-questions-1) section.
 
