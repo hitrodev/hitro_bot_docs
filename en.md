@@ -12,7 +12,8 @@
 
 ### [How to start using HitroBot](#how-to-start-using-hitrobot-1)
 
-### [Binance registration and account setup](#binance-registration-and-account-setup-1)
+### [Binance registration and account setup](#binance-registration-and-account-setup-1)<img width="1198" alt="image" src="https://user-images.githubusercontent.com/91800102/145727120-c6fe0987-499f-415c-9e50-c370bc767c8c.png">
+
 - #### [Promo code with *-10%* Binance commission discount](https://accounts.binance.com/en/register?ref=N587Q7WB)
 
 ### [Using Telegram-bot](#using-telegram-bot-1)
@@ -49,7 +50,7 @@ Backtesting results are available [here](/backtesting/report.md).
 It is worth noting that the robot can sometimes close trades at a loss, therefore, on the PNL (Profit and Loss) chart, you can sometimes see short-term drawdowns, for example: October 6 -5.5%, October 17 -15%.
 This is fine, as the overall portfolio size is going up!
 
-![October PNL](/images/pnl-october.png)
+<img src="/images/pnl-october.png" alt="October PNL" height="388"/>
 
 More information about the robot can be found in the [FAQ](#frequently-asked-questions-1) section.
 
@@ -89,7 +90,7 @@ The registration and account setup are complete! Now you can move on to configur
 
 5. Create an API key with any name following the [instructions](https://www.binance.com/en/support/faq/360002502072).
 6. Press "Edit restrictions" and set "Enable Futures" — the access to trade in Futures account. It should look like this:
-![API restrictions](/images/api-restrictions.png)
+<img src="/images/api-restrictions.png" alt="API restrictions" height="400"/>
 
 Done! Now you can send API Key and API Secret to the Telegram-bot.  
 The robot will not have permission to withdraw funds, you don't have to worry about that.
@@ -103,7 +104,7 @@ After [account activation in the bot](#как-подключиться-к-hitrob
 - Suspend/resume the robot.
 - Update API keys if necessary.
 
-![Telegram-bot](/images/telegram-bot.png)
+<img src="/images/telegram-bot.png" alt="Telegram-bot" height="520"/>
 
 Menu appears when you send any message in the chat, just in case.
 
