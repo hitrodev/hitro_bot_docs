@@ -12,7 +12,7 @@
 
 ### [How to start using HitroBot](#how-to-start-using-hitrobot-1)
 
-### [Binance registration and account setup](#binance-registration-and-account-setup-1)<img width="1198" alt="image" src="https://user-images.githubusercontent.com/91800102/145727120-c6fe0987-499f-415c-9e50-c370bc767c8c.png">
+### [Binance registration and account setup](#binance-registration-and-account-setup-1)
 
 - #### [Promo code with *-10%* Binance commission discount](https://accounts.binance.com/en/register?ref=N587Q7WB)
 
