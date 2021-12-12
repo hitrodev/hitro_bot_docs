@@ -50,7 +50,7 @@ Backtesting results are available [here](/backtesting/report.md).
 It is worth noting that the robot can sometimes close trades at a loss, therefore, on the PNL (Profit and Loss) chart, you can sometimes see short-term drawdowns, for example: October 6 -5.5%, October 17 -15%.
 This is fine, as the overall portfolio size is going up!
 
-<img src="/images/pnl-october.png" alt="October PNL" style="object-fit: scale-down; height: 388px;"/>
+![October PNL](/images/pnl-october.png)
 
 More information about the robot can be found in the [FAQ](#frequently-asked-questions-1) section.
 
@@ -90,7 +90,7 @@ The registration and account setup are complete! Now you can move on to configur
 
 5. Create an API key with any name following the [instructions](https://www.binance.com/en/support/faq/360002502072).
 6. Press "Edit restrictions" and set "Enable Futures" — the access to trade in Futures account. It should look like this:
-<img src="/images/api-restrictions.png" alt="API restrictions" height="400"/>
+![API restrictions](/images/api-restrictions.png)
 
 Done! Now you can send API Key and API Secret to the Telegram-bot.  
 The robot will not have permission to withdraw funds, you don't have to worry about that.
@@ -104,7 +104,7 @@ After [account activation in the bot](#как-подключиться-к-hitrob
 - Suspend/resume the robot.
 - Update API keys if necessary.
 
-<img src="/images/telegram-bot.png" alt="Telegram-bot" height="520"/>
+![Telegram-bot](/images/telegram-bot.png)
 
 Menu appears when you send any message in the chat, just in case.
 
