@@ -75,6 +75,14 @@ So, the instructions for connecting to HitroBot:
 > - You should not close positions opened by the robot, this may interfere with the algorithm.
 > - Positions in the futures account opened not by the robot will be closed to ensure the integrity of trading.
 
+### HitroBot modes
+
+The robot can trade in two modes:
+- **Normal** — default trading mode in which the robot uses the entire balance and no more than *3X Margin* on each trade, the maximum number of simultaneously opened trades is *3*.
+- **Safe** — less risky mode but also less profitable. The difference from *Normal* mode is that the robot uses *70%* of the balance. If there were losing trades then *70%* of the previous maximum balance is used. This allows us to recover faster after dumps. It is recommended for users who value reliability over rate of returns.
+
+Press `Change mode` in the Telegram-bot to choose between the modes.
+
 
 ## Binance registration and account setup
 
